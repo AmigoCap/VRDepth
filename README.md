@@ -22,7 +22,3 @@ Link for the visualization of 2d image into 3d VR model project : ([Project 2]ht
 2) Open the scene testParticle into the project
 
 3) Play the scene
-
-
-
-The project will be paste directly in this repository and an user manual will be added soon.
