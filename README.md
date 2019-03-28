@@ -1,9 +1,9 @@
 # VRDepth
 
-Project Report (PDF - French) : ([Global Report]https://drive.google.com/file/d/1hLArMIrE0mKWvVkKpWwa6RLjuwbiR3qE/view?usp=sharing)
+Project Report (PDF - French) : [Global Report](https://drive.google.com/file/d/1hLArMIrE0mKWvVkKpWwa6RLjuwbiR3qE/view?usp=sharing)
 
 
-Link for the particle visualization project : ([Project 1]https://drive.google.com/open?id=1wzeNeVJdG9SPVnP42-OixMiJNFY6sGnQ)
+Link for the particle visualization project : [Project 1](https://drive.google.com/open?id=1wzeNeVJdG9SPVnP42-OixMiJNFY6sGnQ)
 
 1) Open the project with Unity
 
@@ -18,7 +18,7 @@ In the Hierarchy tab :
 
 For more information we invite you to check into the main report.
 
-Link for the visualization of 2d image into 3d VR model project : ([Project 2]https://drive.google.com/open?id=1wIknAcmv_Dfw-jqPoWjJA7gjgTpwGgxc)
+Link for the visualization of 2d image into 3d VR model project : [Project 2](https://drive.google.com/open?id=1wIknAcmv_Dfw-jqPoWjJA7gjgTpwGgxc)
 
 1) Open the project with Unity
 
