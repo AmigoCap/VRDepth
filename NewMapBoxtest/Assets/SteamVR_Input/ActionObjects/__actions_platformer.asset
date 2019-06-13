@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de9bfbcdc1b39e149b7a67c6fd7134d4, type: 3}
+  m_Name: __actions_platformer
+  m_EditorClassIdentifier: 
+  allActions:
+  - {fileID: 11400000, guid: fba846350d980ac47a613ffe9e046175, type: 2}
+  - {fileID: 11400000, guid: 808103cc125676744a22731dce78d933, type: 2}
+  nonVisualInActions:
+  - {fileID: 11400000, guid: fba846350d980ac47a613ffe9e046175, type: 2}
+  - {fileID: 11400000, guid: 808103cc125676744a22731dce78d933, type: 2}
+  visualActions: []
+  poseActions: []
+  skeletonActions: []
+  outActionArray: []
+  fullPath: /actions/platformer
+  usage: single
+  inActions: {fileID: 11400000, guid: 187f8dd352559a84f86d7ca15ffb0f4b, type: 2}
